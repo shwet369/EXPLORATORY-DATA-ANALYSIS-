@@ -1,8 +1,8 @@
-# EXPLORATORY-DATA-ANALYSIS-
+# EXPLORATORY-DATA-ANALYSIS- 🔎🏛️🌐
 
 Exploratory Data Analysis (EDA) is a crucial step in any data science project as it allows you to make certain that the results you produce are valid, applicable, understandable, and impactful. Here's a breakdown of the typical steps involved in EDA and their uses:
 
-### Steps in Exploratory Data Analysis (EDA)
+### Steps in Exploratory Data Analysis (EDA) 🕵️
 
 1. **Data Collection**
    - **Use**: Gather raw data from various sources to analyze.
@@ -44,7 +44,7 @@ Exploratory Data Analysis (EDA) is a crucial step in any data science project as
     - **Use**: Document the findings and the steps taken in the EDA process to ensure reproducibility and to provide a clear path of analysis for stakeholders.
     - **Tools**: Markdown files, Jupyter Notebooks, R Markdown.
 
-### Uses of Exploratory Data Analysis (EDA)
+### Uses of Exploratory Data Analysis (EDA)📶📉
 
 - **Understanding Data**: EDA helps you gain familiarity with the data, its structure, and its quirks, which is crucial before engaging in more complicated statistical analysis or model building.
 - **Cleaning Data**: Identifies errors or inconsistencies in the data that need to be addressed to ensure the accuracy of your results.
